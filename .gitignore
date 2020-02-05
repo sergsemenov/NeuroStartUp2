@@ -1,0 +1,5 @@
+thumbs.db
+*.*_old
+*.*_backup
+.DS_Store
+TMP/
